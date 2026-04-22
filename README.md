@@ -24,10 +24,10 @@ I am a software developer with 4 years of experience, specializing in building h
 
 | GitHub Metrics | Coding Streak |
 | :--- | :--- |
-| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[duyanh1904]&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[duyanh1904]&theme=radical) |
+| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?user=[duyanh1904]&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[duyanh1904]&theme=radical) |
 
 ### 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[duyanh1904]&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=[duyanh1904]&layout=compact&theme=radical)
 
 ---
 
