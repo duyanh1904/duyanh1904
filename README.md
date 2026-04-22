@@ -24,12 +24,12 @@ I am a software developer with 4 years of experience, specializing in building h
 
 | GitHub Metrics | Coding Streak |
 | :--- | :--- |
-| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=radical) |
+| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[duyanh1904]&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=radical) |
 
 ### 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[duyanh1904]&layout=compact&theme=radical)
 
 ---
 
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR_LINKEDIN])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duy-anh-nguyen-edward/)
