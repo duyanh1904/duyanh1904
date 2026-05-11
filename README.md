@@ -1,7 +1,7 @@
 # Hi there, I'm Duy Anh Nguyen 👋
 ### Software Engineer | Vue.js | Backend Enthusiast
 
-I am a software developer with 4 years of experience, specializing in building high-performance web applications. I’m passionate about clean code, AI integration, and continuous learning to solve complex problems.
+I am a software developer with 5 years of experience, specializing in building high-performance web applications. I’m passionate about clean code, AI integration, and continuous learning to solve complex problems.
 
 - 🌍  Based in **Hanoi, Vietnam**
 - ✉️  Contact me at: **duyanh3897@gmail.com**
