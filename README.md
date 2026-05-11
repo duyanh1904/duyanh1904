@@ -31,9 +31,8 @@ I am a software developer with 5 years of experience, specializing in building h
 
 ---
 
-### 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duyanh1904&bg_color=141321&color=0f8546&line=0f8546&point=0f8546&area=true&hide_border=true)
+### 🟩 My Contribution Graph
+![3D Contrib](profile-3d-contrib/profile-night-view.svg)
 
 ---
 
