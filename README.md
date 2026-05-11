@@ -27,7 +27,7 @@ I am a software developer with 5 years of experience, specializing in building h
 
 | GitHub Metrics | Coding Streak |
 | :--- | :--- |
-| ![GitHub Metrics](profile-summary-cards/profile-details/radical.svg) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[duyanh1904]&theme=radical) |
+| ![GitHub Metrics](profile-summary-card-output/codeSTACKr/3-stats.svg) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[duyanh1904]&theme=radical) |
 
 ---
 
